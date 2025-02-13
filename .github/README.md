@@ -10,7 +10,7 @@ Passionate developer with expertise in full-stack development and security.
 - Intermediate: `IOS Developer`
 
 🤝 **Connect With Me**
-- [Website](https://marsec.cc)
+- [Website](https://omaralhami.netlify.app)
 - [Email](mailto:omar.alhami@outlook.com)
   
 <br clear="both">
