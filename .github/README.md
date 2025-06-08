@@ -1,4 +1,4 @@
-<img align="left" src="https://cdn.discordapp.com/icons/1016683924445937695/0a191ca3b55a1f7634fa2d858700df41.png" alt="mar-terminal" width="200" />
+<img align="left" src="https://66.media.tumblr.com/db5bfe76323a05b7bff70a272baef5a9/tumblr_oqufitCx7i1u84suwo1_500.png" alt="logo.png" width="200" />
 
 ```zsh
 > mar-terminal
