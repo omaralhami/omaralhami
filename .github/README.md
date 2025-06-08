@@ -13,7 +13,3 @@
    Discord  :  discord.gg/marx
 
 ----------------
-
-<img src="https://raw.githubusercontent.com/only-mar/only-mar/output/snake.svg" alt="Snake animation" />
-
-###
