@@ -1,19 +1,18 @@
-# Omar👋, but you can delete the O.
-### Software Engineer | Cybersecurity Enthusiast
+<img align="left" src="https://cdn.discordapp.com/icons/1016683924445937695/0a191ca3b55a1f7634fa2d858700df41.png" alt="mar-terminal" width="200" />
 
-Passionate developer with expertise in full-stack development and security.
+```zsh
+> mar-terminal
 
-<img align="right" style="margin-left: 50px;" height="150" src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" />
+----------------
 
-🛠️ **Tech Stack**
-- Advanced: `Website Developer` `Chrome Extensions`
-- Intermediate: `IOS Developer`
+      User  :  omar (aka mar)
+       OS   :  Windows 11
+      Shell :  zsh / cmd
+  Projects  :  bots, web apps, automations
+ Community  :  Mar Terminal
+   Discord  :  discord.gg/marx
 
-🤝 **Connect With Me**
-- [Website](https://omaralhami.netlify.app)
-- [Email](mailto:omar.alhami@outlook.com)
-  
-<br clear="both">
+----------------
 
 <img src="https://raw.githubusercontent.com/only-mar/only-mar/output/snake.svg" alt="Snake animation" />
 
