@@ -12,7 +12,6 @@
        OS   :  Windows 11
       Shell :  zsh / cmd
   Projects  :  bots, web apps, automations
- Community  :  Mar Terminal
-   Discord  :  discord.gg/marx
+   Discord  :  19.94
 
 ----------------
