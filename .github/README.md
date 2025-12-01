@@ -12,6 +12,9 @@
        OS   :  Windows 11
       Shell :  zsh / cmd
   Projects  :  bots, web apps, automations
-   Discord  :  19.94
+   Discord  :  @19.94 [open to make friends ♥.]
 
 ----------------
+```
+
+### ᴅɪꜱᴄᴏʀᴅ ᴄᴏᴍᴍᴜɴɪᴛʏ [ᴅᴇᴠ ᴡɪᴛʜ ᴏ.](https://discord.gg/vJbcb2dKz2) ↼
