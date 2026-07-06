@@ -10,7 +10,7 @@
        OS   :  Windows 11
       Shell :  zsh / cmd
   Projects  :  bots, web apps, automations
-   Discord  :  @19.94
+   Discord  :  @16.72
 
 ----------------
 ```
