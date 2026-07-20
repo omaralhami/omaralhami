@@ -7,7 +7,7 @@
 ----------------
 
       User  :  omar (aka mar)
-       OS   :  Windows 11
+       OS   :  Windows 11 / Fedora 44
       Shell :  zsh / cmd
   Projects  :  bots, web apps, automations
    Discord  :  @16.72
